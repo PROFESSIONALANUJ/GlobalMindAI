@@ -1,4 +1,4 @@
-# 🧠 GlobalMindAI - Intelligent Study Platform
+# 🧠 EduFlow - Intelligent Study Platform
 
 An advanced AI-powered educational platform that transforms how students learn with personalized study tools, intelligent document analysis, and adaptive learning mechanisms.
 
@@ -8,7 +8,7 @@ An advanced AI-powered educational platform that transforms how students learn w
 
 ## 🎯 Overview
 
-GlobalMindAI is a comprehensive educational technology platform built with modern web technologies and advanced AI models. It provides:
+EduFlow is a comprehensive educational technology platform built with modern web technologies and advanced AI models. It provides:
 
 ✨ **Intelligent Document Analysis** - Extract insights from any study material
 📝 **AI-Powered Quiz Generation** - Create adaptive quizzes automatically
@@ -325,7 +325,7 @@ git push origin feature/your-feature
 
 ## 📄 License
 
-This project is part of the GlobalMindAI initiative for educational advancement.
+This project is part of the EduFlow initiative for educational advancement Developed by Anuj kumar vishwakarma.
 
 ---
 
